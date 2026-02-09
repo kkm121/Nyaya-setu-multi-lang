@@ -45,6 +45,9 @@ Launch the dynamic inference engine with the graphical user interface.
 python app.py
 
 *Access the application at http://127.0.0.1:7860.*
+<img width="1147" height="486" alt="image" src="https://github.com/user-attachments/assets/e987a549-5f73-4697-952a-804b8a71c3c8" />
+<img width="1161" height="487" alt="image" src="https://github.com/user-attachments/assets/58892ee1-5f43-4f18-ae23-876e5014ce01" />
+
 
 ## **Technical Architecture**
 
