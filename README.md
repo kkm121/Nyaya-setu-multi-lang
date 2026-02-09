@@ -14,7 +14,7 @@ The model utilizes QLoRA (Quantized Low-Rank Adaptation) for efficient 4-bit inf
 ## **Installation**
 
 1. **Clone the repository:**  
-   git clone \[https://github.com/yourusername/Nyaya-Tuned.git\](https://github.com/yourusername/Nyaya-Tuned.git)  
+   git clone [\[https://github.com/yourusername/Nyaya-Tuned.git\](https://github.com/yourusername/Nyaya-Tuned.git)  ](https://github.com/kkm121/Nyaya-setu-multi-lang.git)
    cd Nyaya-Tuned
 
 2. **Install dependencies:**  
