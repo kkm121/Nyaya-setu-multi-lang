@@ -110,7 +110,7 @@ def generate_response(query, lang_code="en"):
 
 def main():
     print("\n" + "="*50)
-    print("⚖️  NYAYA-TUNED TERMINAL INTERFACE")
+    print("  NYAYA-TUNED TERMINAL INTERFACE")
     print("   Type 'exit' to quit.")
     print("   Language Codes: en, hi, ta, te, bn, etc.")
     print("="*50)
@@ -143,7 +143,7 @@ def main():
             print("   Thinking...")
             response = generate_response(user_input, current_lang)
             print("-" * 50)
-            print(f"💡 \033[1mOPINION:\033[0m\n{response}")
+            print(f" \033[1mOPINION:\033[0m\n{response}")
             print("-" * 50)
 
         except KeyboardInterrupt:
