@@ -1,0 +1,79 @@
+{"id": "c01", "cat": "criminal", "q": "ఉద్యోగం ఇస్తానని వాగ్దానం చేస్తూ ఎవరో నా నుండి డబ్బు తీసుకుని, ఆపై అదృశ్యమయ్యారు. దీనికి శిక్ష ఏమిటి?", "gold": ["BNS-318"], "q_en": "Someone took money from me promising a job and then disappeared. What is the punishment for this?"}
+{"id": "c02", "cat": "criminal", "q": "హత్యకు శిక్ష ఏమిటి?", "gold": ["BNS-103"], "q_en": "What is the punishment for murder?"}
+{"id": "c03", "cat": "criminal", "q": "నా భర్త, అతని కుటుంబం నన్ను వేధించి, మరింత కట్నం కోసం నన్ను కొట్టారు. ఏ చట్టం నన్ను రక్షిస్తుంది?", "gold": ["BNS-85", "BNS-86", "DPA-3", "DPA-4", "DV-3"], "q_en": "My husband and his family harass me and beat me for more dowry. What law protects me?"}
+{"id": "c04", "cat": "criminal", "q": "నా సంచి నుండి ఎవరో నా మొబైల్ ఫోన్ను దొంగిలించారు. దొంగతనానికి శిక్ష ఏమిటి?", "gold": ["BNS-303"], "q_en": "Someone stole my mobile phone from my bag. What is the punishment for theft?"}
+{"id": "c05", "cat": "criminal", "q": "ఒక వ్యక్తి నన్ను ఫోన్లో చంపేస్తానని బెదిరిస్తూనే ఉంటాడు.", "gold": ["BNS-351"], "q_en": "A man keeps threatening to kill me over the phone."}
+{"id": "c06", "cat": "criminal", "q": "ఒక గొడవలో నా పొరుగువారు నన్ను చెంపదెబ్బ కొట్టి గాయపరిచారు. నేను ఫిర్యాదు చేయవచ్చా?", "gold": ["BNS-115"], "q_en": "My neighbour slapped and hurt me during a fight. Can I complain?"}
+{"id": "c07", "cat": "criminal", "q": "నా ప్రతిష్టను నాశనం చేయడానికి ఎవరో నా గురించి తప్పుడు కథనాలను వ్యాప్తి చేస్తున్నారు.", "gold": ["BNS-356"], "q_en": "Someone is spreading false stories about me to ruin my reputation."}
+{"id": "c08", "cat": "criminal", "q": "నేను వద్దు అని చెప్పిన తర్వాత కూడా ఒక వ్యక్తి నన్ను అనుసరిస్తూ, నాకు సందేశాలు పంపుతూ ఉంటాడు.", "gold": ["BNS-78"], "q_en": "A man keeps following me and messaging me even after I said no."}
+{"id": "c09", "cat": "criminal", "q": "ఒక వ్యక్తి నన్ను అనుచితంగా తాకి బస్ స్టాప్ వద్ద లైంగిక వ్యాఖ్యలు చేశాడు.", "gold": ["BNS-75"], "q_en": "A man touched me inappropriately and made sexual remarks at the bus stop."}
+{"id": "c10", "cat": "criminal", "q": "రాత్రివేళ మేము దూరంగా ఉన్నప్పుడు ఎవరో నా ఇంట్లోకి చొరబడి వచ్చారు.", "gold": ["BNS-329", "BNS-330", "BNS-331", "BNS-305"], "q_en": "Someone broke into my house at night when we were away."}
+{"id": "c11", "cat": "criminal", "q": "బైక్ మీద ఉన్న ఇద్దరు వ్యక్తులు రోడ్డుపై నా బంగారు గొలుసును లాక్కొన్నారు.", "gold": ["BNS-304"], "q_en": "Two men on a bike snatched my gold chain on the road."}
+{"id": "c12", "cat": "criminal", "q": "ఒక కారు మా నాన్నను ఢీకొట్టింది, డ్రైవర్ పారిపోయాడు. అతను మరణించాడు. శిక్ష ఏమిటి?", "gold": ["BNS-106"], "q_en": "A car hit my father and the driver ran away. He died. What is the punishment?"}
+{"id": "c13", "cat": "criminal", "q": "స్థానిక గూండాలు ప్రతి నెలా నన్ను బెదిరించి నా దుకాణం నుండి డబ్బు డిమాండ్ చేస్తున్నారు.", "gold": ["BNS-308"], "q_en": "Local goons are demanding money from my shop every month by threatening me."}
+{"id": "c14", "cat": "criminal", "q": "నా ఉద్యోగి తనకు నమ్మదగిన కంపెనీ డబ్బును తీసుకొని తన కోసం ఉపయోగించుకున్నాడు.", "gold": ["BNS-316", "BNS-314"], "q_en": "My employee took the company money that was trusted to him and used it for himself."}
+{"id": "c15", "cat": "criminal", "q": "బహిరంగ రహదారిపై అతిగా, నిర్లక్ష్యంగా వాహనాలు నడపడానికి శిక్ష ఏమిటి?", "gold": ["BNS-281", "BNS-106", "MVA-184"], "q_en": "What is the punishment for rash and negligent driving on a public road?"}
+{"id": "c16", "cat": "criminal", "q": "ఒక వ్యక్తి కులం కారణంగా ఒక గుంపు అతనిని కొట్టి చంపింది. చట్టం ఏం చెబుతోంది?", "gold": ["BNS-103"], "q_en": "A group of people beat a man to death because of his caste. What does the law say?"}
+{"id": "c17", "cat": "criminal", "q": "భారతదేశంలో దేశద్రోహాలు ఇప్పటికీ నేరమేనా?", "gold": ["BNS-152", "IPC-124A"], "q_en": "Is sedition still a crime in India?"}
+{"id": "c18", "cat": "criminal", "q": "కొత్త నేర చట్టం ప్రకారం వ్యవస్థీకృత నేరాలు అంటే ఏమిటి?", "gold": ["BNS-111"], "q_en": "What is organised crime under the new criminal law?"}
+{"id": "c19", "cat": "criminal", "q": "భర్త వేధించినందుకు నా సోదరి ఆత్మహత్య చేసుకుంది. అతన్ని శిక్షించవచ్చా?", "gold": ["BNS-108", "BNS-80", "BNS-85", "BSA-117"], "q_en": "My sister died by suicide because her husband tortured her. Can he be punished?"}
+{"id": "c20", "cat": "criminal", "q": "వరకట్న డిమాండ్ తో వివాహం అయిన 7 ఏళ్లలోపు ఒక మహిళ మరణించింది. ఇది ఏ నేరం?", "gold": ["BNS-80", "BSA-118"], "q_en": "A woman died within 7 years of marriage after dowry demands. What offence is this?"}
+{"id": "c21", "cat": "criminal", "q": "పాఠశాల వెలుపల నుండి ఎవరో ఒక బాలుడిని కిడ్నాప్ చేశారు.", "gold": ["BNS-137", "BNS-139", "BNS-140"], "q_en": "Someone kidnapped a child from outside a school."}
+{"id": "p01", "cat": "procedure", "q": "పోలీసులు నన్ను దాఖలు చేయడానికి నిరాకరించారు FIR. నేను ఏమి చేయగలను?", "gold": ["BNSS-173", "BNSS-175"], "q_en": "The police refused to file my FIR. What can I do?"}
+{"id": "p02", "cat": "procedure", "q": "నేను పోలీసులకు నేరానికి సంబంధించిన సమాచారాన్ని ఇమెయిల్ ద్వారా లేదా ఆన్లైన్ ద్వారా ఇవ్వవచ్చా?", "gold": ["BNSS-173"], "q_en": "Can I give information about a crime to the police by email or online?"}
+{"id": "p03", "cat": "procedure", "q": "తప్పుడు కేసులో నన్ను అరెస్టు చేస్తారని నేను భయపడుతున్నాను. ముందస్తు బెయిల్ ఎలా పొందాలి?", "gold": ["BNSS-482"], "q_en": "I fear I will be arrested in a false case. How do I get anticipatory bail?"}
+{"id": "p04", "cat": "procedure", "q": "వారెంట్ లేకుండా పోలీసులు ఎవరినైనా అరెస్టు చేయగలరా?", "gold": ["BNSS-35"], "q_en": "Can police arrest someone without a warrant?"}
+{"id": "p05", "cat": "procedure", "q": "అరెస్టయిన వ్యక్తిని ఎన్ని గంటల్లో మేజిస్ట్రేట్ వద్దకు తీసుకెళ్లాలి?", "gold": ["BNSS-58", "COI-22"], "q_en": "Within how many hours must an arrested person be taken to a magistrate?"}
+{"id": "p06", "cat": "procedure", "q": "నా సోదరుడిని అరెస్టు చేసినప్పుడు, పోలీసులు మా కుటుంబానికి చెప్పలేదు. దానికి అనుమతి ఉందా?", "gold": ["BNSS-48"], "q_en": "When my brother was arrested, the police did not tell our family. Is that allowed?"}
+{"id": "p07", "cat": "procedure", "q": "బెయిలబుల్ నేరానికి బెయిల్పై ఎలా పనిచేస్తుంది?", "gold": ["BNSS-478"], "q_en": "How does bail work for a bailable offence?"}
+{"id": "p08", "cat": "procedure", "q": "నా భర్త నన్ను విడిచిపెట్టి వెళ్ళిపోయాడు, నాకు, మా పిల్లలకు డబ్బు ఇవ్వడు. నేను నిర్వహణ కోసం క్లెయిమ్ చేయవచ్చా?", "gold": ["BNSS-144", "HAMA-18", "DV-20"], "q_en": "My husband left me and does not give money for me and our children. Can I claim maintenance?"}
+{"id": "p09", "cat": "procedure", "q": "పోలీసులు రాత్రిపూట ఒక మహిళను అరెస్టు చేయగలరా?", "gold": ["BNSS-43"], "q_en": "Can the police arrest a woman at night?"}
+{"id": "e01", "cat": "evidence", "q": "వాట్సప్ చాట్లు, స్క్రీన్షాట్లను కోర్టులో సాక్ష్యంగా ఉపయోగించవచ్చా?", "gold": ["BSA-63", "BSA-61"], "q_en": "Can WhatsApp chats and screenshots be used as evidence in court?"}
+{"id": "e02", "cat": "evidence", "q": "పోలీసులు నన్ను ఒప్పుకోలు సంతకం చేయమని బలవంతం చేశారు. అది నాకు వ్యతిరేకంగా ఉపయోగించబడుతుందా?", "gold": ["BSA-23", "BSA-22", "COI-20"], "q_en": "Police forced me to sign a confession. Can it be used against me?"}
+{"id": "o01", "cat": "old_new", "q": "కొత్త చట్టం ప్రకారం IPC 420 అంటే ఏమిటి?", "gold": ["BNS-318", "IPC-420"], "q_en": "What is IPC 420 called under the new law?"}
+{"id": "o02", "cat": "old_new", "q": "IPC 302 కోసం కొత్త విభాగం ఏమిటి?", "gold": ["BNS-103", "IPC-302"], "q_en": "What is the new section for IPC 302?"}
+{"id": "o03", "cat": "old_new", "q": "CrPC 438 ముందస్తు బెయిల్ ఇప్పుడు ఏ విభాగం?", "gold": ["BNSS-482", "CRPC-438"], "q_en": "CrPC 438 anticipatory bail is now which section?"}
+{"id": "o04", "cat": "old_new", "q": "మార్చి 2022లో నేను మోసపోయాను. నా కేసు, IPC లేదా ఏ చట్టం వర్తిస్తుంది BNS?", "gold": ["IPC-420", "IPC-415", "BNS-358", "BNS-318"], "q_en": "I was cheated in March 2022. Which law applies to my case, IPC or BNS?"}
+{"id": "o05", "cat": "old_new", "q": "నాపై Section 498A IPC కేసు నమోదైంది. ఇప్పుడు ఏమిటి?", "gold": ["BNS-85", "BNS-86", "IPC-498A"], "q_en": "Section 498A IPC case filed against me. What is it now?"}
+{"id": "o06", "cat": "old_new", "q": "ఎలక్ట్రానిక్ సాక్ష్యాల కోసం Section 65B సర్టిఫికేట్ ఇంకా అవసరమా?", "gold": ["BSA-63", "IEA-65B"], "q_en": "Is Section 65B certificate still needed for electronic evidence?"}
+{"id": "m01", "cat": "money", "q": "నా స్నేహితుడు నాకు ఇచ్చిన చెక్ బౌన్స్ అయ్యింది. నేను ఏమి చేయాలి?", "gold": ["NIA-138"], "q_en": "The cheque my friend gave me bounced. What should I do?"}
+{"id": "m02", "cat": "money", "q": "కోర్టులో చెక్ బౌన్స్ కేసును దాఖలు చేయడానికి నేను ఎంత సమయం తీసుకోవాలి?", "gold": ["NIA-142", "NIA-138"], "q_en": "How much time do I have to file a cheque bounce case in court?"}
+{"id": "m03", "cat": "money", "q": "నేను ఒక ఫోన్ కొన్నాను, అది ఒక వారంలో పనిచేయడం మానేసింది మరియు దుకాణం దానిని భర్తీ చేయడానికి నిరాకరించింది.", "gold": ["CPA-35", "CPA-2", "CPA-34", "CPA-39"], "q_en": "I bought a phone that stopped working in a week and the shop refuses to replace it."}
+{"id": "m04", "cat": "money", "q": "వినియోగదారుల ఫిర్యాదు దాఖలు చేయడానికి కాలపరిమితి ఎంత?", "gold": ["CPA-69"], "q_en": "What is the time limit to file a consumer complaint?"}
+{"id": "m05", "cat": "money", "q": "5 లక్షల రూపాయల ఫిర్యాదు కోసం నేను ఏ వినియోగదారుల కమిషన్కు వెళ్లాలి?", "gold": ["CPA-34"], "q_en": "Which consumer commission should I go to for a complaint worth 5 lakh rupees?"}
+{"id": "r01", "cat": "rights", "q": "ఆర్టీఐ దరఖాస్తును ఎలా దాఖలు చేయాలి?", "gold": ["RTI-6"], "q_en": "How do I file an RTI application?"}
+{"id": "r02", "cat": "rights", "q": "నా ఆర్టీఐకి ప్రభుత్వం ఎన్ని రోజులు సమాధానం ఇవ్వాలి?", "gold": ["RTI-7"], "q_en": "How many days does the government have to reply to my RTI?"}
+{"id": "r03", "cat": "rights", "q": "నా ఆర్టీఐ తిరస్కరించబడింది. నేను ఎలా అప్పీల్ చేయగలను?", "gold": ["RTI-19"], "q_en": "My RTI was rejected. How can I appeal?"}
+{"id": "r04", "cat": "rights", "q": "ఆర్టీఐ కింద ప్రభుత్వం ఏ సమాచారాన్ని ఇవ్వడానికి నిరాకరించగలదు?", "gold": ["RTI-8", "RTI-9"], "q_en": "What information can the government refuse to give under RTI?"}
+{"id": "r05", "cat": "rights", "q": "జీవించే హక్కు మరియు వ్యక్తిగత స్వేచ్ఛ అంటే ఏమిటి?", "gold": ["COI-21"], "q_en": "What does the right to life and personal liberty mean?"}
+{"id": "r06", "cat": "rights", "q": "ప్రభుత్వం నుండి ఉచిత న్యాయ సహాయం ఎవరు పొందవచ్చు?", "gold": ["LSAA-12"], "q_en": "Who can get free legal aid from the government?"}
+{"id": "r07", "cat": "rights", "q": "భారతదేశంలో చట్టం ముందు అందరూ సమానమేనా?", "gold": ["COI-14"], "q_en": "Is everyone equal before the law in India?"}
+{"id": "r08", "cat": "rights", "q": "రాజ్యాంగం ప్రకారం అరెస్టు చేయబడిన వ్యక్తికి ఏ హక్కులు ఉన్నాయి?", "gold": ["COI-22", "COI-20"], "q_en": "What rights does an arrested person have under the Constitution?"}
+{"id": "r09", "cat": "rights", "q": "నా కుల పేరును బహిరంగంగా ఉపయోగించి ఎవరో నన్ను అవమానించారు.", "gold": ["SCST-3"], "q_en": "Someone insulted me using my caste name in public."}
+{"id": "r10", "cat": "rights", "q": "ఆఫీసులో నా మేనేజర్ నన్ను లైంగికంగా వేధిస్తాడు. నేను ఎక్కడ ఫిర్యాదు చేయాలి?", "gold": ["POSH-9", "POSH-4", "POSH-11"], "q_en": "My manager sexually harasses me at the office. Where do I complain?"}
+{"id": "r11", "cat": "rights", "q": "నేను ఒక చిన్నారిపై లైంగిక వేధింపుల గురించి ఫిర్యాదు చేయాలనుకుంటున్నాను.", "gold": ["POCSO-19", "POCSO-21"], "q_en": "I want to report sexual abuse of a child."}
+{"id": "f01", "cat": "family", "q": "నా భర్త నన్ను కొడతాడు. నేను రక్షణ ఆర్డర్ ఎలా పొందగలను?", "gold": ["DV-18", "DV-12", "DV-3"], "q_en": "My husband beats me. How do I get a protection order?"}
+{"id": "f02", "cat": "family", "q": "హిందువులకు విడాకులకు కారణాలు ఏమిటి?", "gold": ["HMA-13"], "q_en": "What are the grounds for divorce for Hindus?"}
+{"id": "f03", "cat": "family", "q": "కట్నం ఇవ్వడం లేదా తీసుకోవడం నేరమా?", "gold": ["DPA-3", "DPA-4"], "q_en": "Is giving or taking dowry a crime?"}
+{"id": "f04", "cat": "family", "q": "నా కొడుకు వృద్ధాప్యంలో నన్ను పట్టించుకోడు. నేను అతని నుండి నిర్వహణ కోసం క్లెయిమ్ చేయవచ్చా?", "gold": ["MWPSC-4", "MWPSC-5"], "q_en": "My son does not take care of me in old age. Can I claim maintenance from him?"}
+{"id": "f05", "cat": "family", "q": "అబ్బాయి, అమ్మాయికి వివాహానికి చట్టబద్ధమైన వయస్సు ఎంత?", "gold": ["HMA-5", "PCMA-2"], "q_en": "What is the legal age for marriage for a boy and a girl?"}
+{"id": "y01", "cat": "cyber", "q": "ఎవరో నా ఇమెయిల్ను హ్యాక్ చేసి, ప్రజలకు సందేశం పంపడానికి నా గుర్తింపును ఉపయోగిస్తున్నారు.", "gold": ["IT_ACT-66C", "IT_ACT-66", "IT_ACT-66D", "BNS-319"], "q_en": "Someone hacked my email and is using my identity to message people."}
+{"id": "y02", "cat": "cyber", "q": "ఒక కాల్ చేసిన వ్యక్తి నా బ్యాంకు నుండి వచ్చినట్లు నటించి, నా ఓటిపి తీసుకొని డబ్బు దొంగిలించాడు.", "gold": ["IT_ACT-66D", "BNS-319", "BNS-318", "IT_ACT-66C"], "q_en": "A caller pretended to be from my bank, took my OTP and stole money."}
+{"id": "t01", "cat": "traffic", "q": "మద్యం మత్తులో వాహనాలు నడపడానికి శిక్ష ఏమిటి?", "gold": ["MVA-185"], "q_en": "What is the punishment for drunk driving?"}
+{"id": "t02", "cat": "traffic", "q": "డ్రైవింగ్ లైసెన్స్ లేకుండా డ్రైవింగ్ చేస్తే ఏమవుతుంది?", "gold": ["MVA-181", "MVA-3"], "q_en": "What happens if I drive without a driving licence?"}
+{"id": "h01", "cat": "property", "q": "నెలవారీ అద్దె అద్దెను ముగించడానికి ఎంత నోటీసు ఇవ్వాలి?", "gold": ["TPA-106"], "q_en": "How much notice must be given to end a monthly rent tenancy?"}
+{"id": "x01", "cat": "unanswerable", "q": "రేపు నా బెయిల్ విచారణలో న్యాయమూర్తి ఏమి నిర్ణయిస్తారు?", "gold": [], "q_en": "What will the judge decide in my bail hearing tomorrow?"}
+{"id": "x02", "cat": "unanswerable", "q": "ఈ సంవత్సరం ముంబైలో ఫ్లాట్ కొనుగోలు చేయడానికి స్టాంప్ డ్యూటీ రేటు ఎంత?", "gold": [], "q_en": "What is the stamp duty rate for buying a flat in Mumbai this year?"}
+{"id": "x03", "cat": "unanswerable", "q": "యునైటెడ్ స్టేట్స్లో నా వంటకం కోసం పేటెంట్ ఎలా పొందాలి?", "gold": [], "q_en": "How do I get a patent for my recipe in the United States?"}
+{"id": "x04", "cat": "unanswerable", "q": "చెన్నైలో ఉత్తమ క్రిమినల్ న్యాయవాది ఎవరు?", "gold": [], "q_en": "Who is the best criminal lawyer in Chennai?"}
+{"id": "x05", "cat": "unanswerable", "q": "ఢిల్లీలో ఈరోజు వాతావరణం ఎలా ఉంది?", "gold": [], "q_en": "What is the weather in Delhi today?"}
+{"id": "x06", "cat": "unanswerable", "q": "ప్రస్తుతం మొబైల్ ఫోన్లపై జిఎస్ టి రేటు ఎంత?", "gold": [], "q_en": "What is the GST rate on mobile phones right now?"}
+{"id": "x07", "cat": "unanswerable", "q": "ఈ రోజు మద్రాస్ హైకోర్టులో ఎంత మంది న్యాయమూర్తులు ఉన్నారు?", "gold": [], "q_en": "How many judges are there in the Madras High Court today?"}
+{"id": "x08", "cat": "unanswerable", "q": "ఆర్బీఐ నిర్దేశించిన ప్రస్తుత రెపో రేటు ఎంత?", "gold": [], "q_en": "What is the current repo rate set by the RBI?"}
+{"id": "x09", "cat": "unanswerable", "q": "తమిళనాడులో ఆర్టీఐ దరఖాస్తు చేయడానికి రుసుము ఎంత?", "gold": [], "q_en": "What is the fee to file an RTI application in Tamil Nadu?"}
+{"id": "x10", "cat": "unanswerable", "q": "గత లోక్సభ ఎన్నికల్లో ఎవరు గెలిచారు?", "gold": [], "q_en": "Who won the last Lok Sabha election?"}
+{"id": "x11", "cat": "unanswerable", "q": "చికెన్ బిర్యానీ కోసం నాకు మంచి వంటకం ఇవ్వండి.", "gold": [], "q_en": "Give me a good recipe for chicken biryani."}
+{"id": "x12", "cat": "unanswerable", "q": "కర్ణాటకలో 10 లక్షల రూపాయల సివిల్ దావాకు కోర్టు రుసుము ఎంత?", "gold": [], "q_en": "What is the court fee for a civil suit of 10 lakh rupees in Karnataka?"}
+{"id": "x13", "cat": "unanswerable", "q": "2025 నాటి కేసు సంఖ్య 1234 తదుపరి విచారణ తేదీ ఎప్పుడు?", "gold": [], "q_en": "When is the next hearing date for case number 1234 of 2025?"}
+{"id": "x14", "cat": "unanswerable", "q": "చెన్నై నుండి ఢిల్లీకి రేపు అత్యంత చౌకైన విమానం ఏది?", "gold": [], "q_en": "Which is the cheapest flight from Chennai to Delhi tomorrow?"}
+{"id": "x15", "cat": "unanswerable", "q": "నా ఆధార యాప్ పాస్వర్డ్ను ఎలా రీసెట్ చేయాలి?", "gold": [], "q_en": "How do I reset my Aadhaar app password?"}

@@ -1,0 +1,68 @@
+{
+ "date": "2026-11-07 20:11",
+ "rerank": true,
+ "glossary": true,
+ "en": {
+  "recall@5": 0.857,
+  "mrr": 0.676,
+  "n": 35,
+  "low_confidence_on_unanswerable": "5/15",
+  "low_confidence_on_answerable": "0/35",
+  "misses": [
+   [
+    "c01",
+    "Someone took money from me promising a job and then disappeared. What ",
+    [
+     "IBC-184",
+     "CA-36",
+     "IBC-185"
+    ]
+   ],
+   [
+    "c06",
+    "My neighbour slapped and hurt me during a fight. Can I complain?",
+    [
+     "BNS-121",
+     "BNS-120",
+     "BNS-119"
+    ]
+   ],
+   [
+    "c10",
+    "Someone broke into my house at night when we were away.",
+    [
+     "IPC-458",
+     "IPC-460",
+     "IPC-456"
+    ]
+   ],
+   [
+    "c16",
+    "A group of people beat a man to death because of his caste. What does ",
+    [
+     "SCST-3",
+     "SCST-23",
+     "BNS-115"
+    ]
+   ],
+   [
+    "p02",
+    "Can I give information about a crime to the police by email or online?",
+    [
+     "ARMS-36",
+     "BNSS-33",
+     "BNSS-176"
+    ]
+   ]
+  ]
+ },
+ "e2e_en": {
+  "answered_with_gold_citation": "22/35",
+  "wrongly_abstained": "8/35",
+  "correctly_abstained_unanswerable": "15/15",
+  "supported_claim_rate": 0.895,
+  "sentences_removed_by_checker": 8,
+  "avg_seconds": 20.2,
+  "avg_translation_quality": 1.0
+ }
+}

@@ -1,0 +1,706 @@
+{
+ "date": "2026-11-07 23:41",
+ "rerank": true,
+ "glossary": true,
+ "en": {
+  "recall@5": 0.891,
+  "mrr": 0.727,
+  "n": 64,
+  "low_confidence_on_unanswerable": "5/15",
+  "low_confidence_on_answerable": "2/64",
+  "misses": [
+   [
+    "c01",
+    "Someone took money from me promising a job and then disappeared. What ",
+    [
+     "IBC-184",
+     "CA-36",
+     "IBC-185"
+    ]
+   ],
+   [
+    "c06",
+    "My neighbour slapped and hurt me during a fight. Can I complain?",
+    [
+     "BNS-121",
+     "BNS-120",
+     "BNS-119"
+    ]
+   ],
+   [
+    "c10",
+    "Someone broke into my house at night when we were away.",
+    [
+     "IPC-458",
+     "IPC-460",
+     "IPC-456"
+    ]
+   ],
+   [
+    "c16",
+    "A group of people beat a man to death because of his caste. What does ",
+    [
+     "SCST-3",
+     "SCST-23",
+     "BNS-115"
+    ]
+   ],
+   [
+    "p02",
+    "Can I give information about a crime to the police by email or online?",
+    [
+     "ARMS-36",
+     "BNSS-33",
+     "BNSS-176"
+    ]
+   ],
+   [
+    "r11",
+    "I want to report sexual abuse of a child.",
+    [
+     "POCSO-11",
+     "IT_ACT-67B",
+     "POCSO-7"
+    ]
+   ],
+   [
+    "f04",
+    "My son does not take care of me in old age. Can I claim maintenance fr",
+    [
+     "MWPSC-32",
+     "HAMA-20",
+     "BNSS-144"
+    ]
+   ]
+  ]
+ },
+ "hi_native": {
+  "recall@5": 1.0,
+  "mrr": 0.7,
+  "n": 20,
+  "low_confidence_on_unanswerable": "0/0",
+  "low_confidence_on_answerable": "1/20",
+  "misses": []
+ },
+ "ta_native": {
+  "recall@5": 0.9,
+  "mrr": 0.702,
+  "n": 20,
+  "low_confidence_on_unanswerable": "0/0",
+  "low_confidence_on_answerable": "1/20",
+  "misses": [
+   [
+    "c13",
+    "Some of the robbers are threatening and charging money from my shop ev",
+    [
+     "BNS-351",
+     "IPC-503",
+     "BNS-309"
+    ]
+   ],
+   [
+    "p03",
+    "I am afraid that I will be arrested in a false case. How to get a mort",
+    [
+     "BNSS-40",
+     "IPC-422",
+     "BNS-321"
+    ]
+   ]
+  ]
+ },
+ "hi": {
+  "recall@5": 0.859,
+  "mrr": 0.683,
+  "n": 64,
+  "low_confidence_on_unanswerable": "5/15",
+  "low_confidence_on_answerable": "2/64",
+  "misses": [
+   [
+    "c01",
+    "Someone took the money from me promising a job and then disappeared. W",
+    [
+     "IBC-184",
+     "CA-36",
+     "NDPS-27A"
+    ]
+   ],
+   [
+    "c06",
+    "My neighbour slapped and injured me during the fight. Can I make a com",
+    [
+     "BNS-121",
+     "BNS-118",
+     "BNS-120"
+    ]
+   ],
+   [
+    "c10",
+    "At night, when we were out, someone broke into my house and vandalised",
+    [
+     "IPC-458",
+     "IPC-460",
+     "IPC-456"
+    ]
+   ],
+   [
+    "c16",
+    "A group of people lynched a man because of his caste. What does the la",
+    [
+     "SCST-23",
+     "SCST-3",
+     "SCST-17"
+    ]
+   ],
+   [
+    "p02",
+    "Can I report the crime to the police by email or online?",
+    [
+     "BNSS-193",
+     "POCSO-19",
+     "BNSS-176"
+    ]
+   ],
+   [
+    "r02",
+    "The government has my R. T. I. How many days are there to respond?",
+    [
+     "MHA-89",
+     "RTI-24",
+     "IRC-74"
+    ]
+   ],
+   [
+    "r11",
+    "I want to complain about a child being sexually abused.",
+    [
+     "POSH-9",
+     "IT_ACT-67B",
+     "POCSO-5"
+    ]
+   ],
+   [
+    "f04",
+    "My son does not take care of me in old age. Can I claim maintenance fr",
+    [
+     "MWPSC-32",
+     "HAMA-20",
+     "BNSS-144"
+    ]
+   ],
+   [
+    "y02",
+    "A caller pretended to come from my bank, my O. T. P. Took and stole mo",
+    [
+     "BNS-303",
+     "BNS-314",
+     "BNS-317"
+    ]
+   ]
+  ]
+ },
+ "ta": {
+  "recall@5": 0.828,
+  "mrr": 0.661,
+  "n": 64,
+  "low_confidence_on_unanswerable": "5/15",
+  "low_confidence_on_answerable": "2/64",
+  "misses": [
+   [
+    "c01",
+    "Someone promised to give me a job and took money from me and then disa",
+    [
+     "IBC-184",
+     "CA-36",
+     "RPWDA-91"
+    ]
+   ],
+   [
+    "c06",
+    "My neighbour slapped and injured me during a fight. Can I make a compl",
+    [
+     "BNS-121",
+     "BNS-118",
+     "BNS-120"
+    ]
+   ],
+   [
+    "c10",
+    "Someone broke into my house at night while we were out.",
+    [
+     "IPC-458",
+     "IPC-460",
+     "IPC-456"
+    ]
+   ],
+   [
+    "c13",
+    "Local goons threaten me every month and demand money from my shop.",
+    [
+     "BNS-351",
+     "IPC-503",
+     "IPC-507"
+    ]
+   ],
+   [
+    "c16",
+    "A group of men beat a man to death because of his caste. What does the",
+    [
+     "SCST-3",
+     "SCST-23",
+     "SCST-17"
+    ]
+   ],
+   [
+    "p02",
+    "Can I provide information about a crime to the police via email or onl",
+    [
+     "ARMS-36",
+     "BNSS-176",
+     "CRPC-150"
+    ]
+   ],
+   [
+    "e02",
+    "The police forced me to sign a statement. Could it be used against me?",
+    [
+     "BNSS-181",
+     "CRPC-162",
+     "BNS-215"
+    ]
+   ],
+   [
+    "o06",
+    "Is Section 65B certification still required for electronic credentials",
+    [
+     "COPYRIGHT-65B",
+     "CPA-65",
+     "TELECOM-54"
+    ]
+   ],
+   [
+    "m01",
+    "A check my friend gave me was stolen. What should I do?",
+    [
+     "BNS-303",
+     "BNS-314",
+     "IPC-412"
+    ]
+   ],
+   [
+    "r11",
+    "I want to complain about a child being sexually abused.",
+    [
+     "POSH-9",
+     "IT_ACT-67B",
+     "POCSO-5"
+    ]
+   ],
+   [
+    "f04",
+    "My son doesn't take care of me in old age. Can I request maintenance f",
+    [
+     "MWPSC-32",
+     "BNSS-144",
+     "HAMA-20"
+    ]
+   ]
+  ]
+ },
+ "te": {
+  "recall@5": 0.922,
+  "mrr": 0.754,
+  "n": 64,
+  "low_confidence_on_unanswerable": "5/15",
+  "low_confidence_on_answerable": "2/64",
+  "misses": [
+   [
+    "c01",
+    "Someone took the money from me promising to give me a job and then dis",
+    [
+     "IBC-184",
+     "CA-36",
+     "RPWDA-91"
+    ]
+   ],
+   [
+    "c06",
+    "In a fight, my neighbours slapped and injured me. Can I make a complai",
+    [
+     "BNS-118",
+     "BNS-124",
+     "BNS-120"
+    ]
+   ],
+   [
+    "c16",
+    "One man was beaten to death by a mob because of his caste. What does t",
+    [
+     "SCST-3",
+     "BNS-118",
+     "SCST-23"
+    ]
+   ],
+   [
+    "p02",
+    "Can I give police information about the crime by email or online?",
+    [
+     "ARMS-36",
+     "BNSS-33",
+     "BNSS-176"
+    ]
+   ],
+   [
+    "r11",
+    "I want to file a complaint about sexual abuse of a child.",
+    [
+     "POSH-9",
+     "CALPRA-16",
+     "POCSO-11"
+    ]
+   ]
+  ]
+ },
+ "kn": {
+  "recall@5": 0.891,
+  "mrr": 0.736,
+  "n": 64,
+  "low_confidence_on_unanswerable": "5/15",
+  "low_confidence_on_answerable": "3/64",
+  "misses": [
+   [
+    "c01",
+    "Someone promised me a job and took the money and then disappeared. Wha",
+    [
+     "CA-36",
+     "IBC-184",
+     "BNS-215"
+    ]
+   ],
+   [
+    "c06",
+    "During the fight, my neighbour slapped and injured me. Can I make a co",
+    [
+     "BNS-118",
+     "BNS-121",
+     "BNS-120"
+    ]
+   ],
+   [
+    "c10",
+    "Someone broke into my house at night when we were away.",
+    [
+     "IPC-458",
+     "IPC-460",
+     "IPC-456"
+    ]
+   ],
+   [
+    "c12",
+    "The car had hit my father and the driver had run away. He died. What i",
+    [
+     "MVA-161",
+     "MVA-197",
+     "MVA-187"
+    ]
+   ],
+   [
+    "c16",
+    "A group of people beat a man to death for his caste. What does the law",
+    [
+     "SCST-3",
+     "SCST-23",
+     "SCST-17"
+    ]
+   ],
+   [
+    "p02",
+    "Can I give the police information about the crime by email or online?",
+    [
+     "BNSS-176",
+     "ARMS-36",
+     "BNSS-33"
+    ]
+   ],
+   [
+    "f04",
+    "My son does not take care of me in old age. Can I apply for a grant fr",
+    [
+     "MWPSC-32",
+     "ISA-121",
+     "MWPSC-9"
+    ]
+   ]
+  ]
+ },
+ "bn": {
+  "recall@5": 0.844,
+  "mrr": 0.689,
+  "n": 64,
+  "low_confidence_on_unanswerable": "5/15",
+  "low_confidence_on_answerable": "1/64",
+  "misses": [
+   [
+    "c01",
+    "Someone took money from me promising a job and then disappeared. What ",
+    [
+     "CA-36",
+     "IBC-184",
+     "NDPS-58"
+    ]
+   ],
+   [
+    "c06",
+    "My neighbor slapped and injured me during a fight. Can I make a compla",
+    [
+     "BNS-118",
+     "BNS-120",
+     "BNS-124"
+    ]
+   ],
+   [
+    "c10",
+    "While we were out, someone broke into my house at night.",
+    [
+     "IPC-458",
+     "IPC-460",
+     "IPC-456"
+    ]
+   ],
+   [
+    "c12",
+    "A car hit my father and the driver fled. He died. What is the punishme",
+    [
+     "MVA-187",
+     "MVA-164",
+     "MVA-184"
+    ]
+   ],
+   [
+    "p02",
+    "Can I report a crime to the police by email or online?",
+    [
+     "BNSS-193",
+     "BNSS-176",
+     "POCSO-19"
+    ]
+   ],
+   [
+    "o06",
+    "Does the Section 65B certificate still need to be certified for electr",
+    [
+     "IEA-65A",
+     "TELECOM-54",
+     "BSA-66"
+    ]
+   ],
+   [
+    "r01",
+    "How can I... T. Should I apply?",
+    [
+     "MHA-77",
+     "ITA-332",
+     "TRADEMARKS-64"
+    ]
+   ],
+   [
+    "r02",
+    "Me and T. How long will the government take to respond to the I?",
+    [
+     "MHA-31",
+     "COI-174",
+     "COI-85"
+    ]
+   ],
+   [
+    "r03",
+    "Me and T. I was rejected. How can I appeal?",
+    [
+     "MWPSC-16",
+     "BNSS-414",
+     "IT_ACT-62"
+    ]
+   ],
+   [
+    "f04",
+    "My son does not take care of me in old age. Can I claim maintenance fr",
+    [
+     "MWPSC-32",
+     "HAMA-20",
+     "BNSS-144"
+    ]
+   ]
+  ]
+ },
+ "mr": {
+  "recall@5": 0.859,
+  "mrr": 0.7,
+  "n": 64,
+  "low_confidence_on_unanswerable": "4/15",
+  "low_confidence_on_answerable": "2/64",
+  "misses": [
+   [
+    "c01",
+    "Someone took money from me promising a job and then disappeared. What ",
+    [
+     "IBC-184",
+     "CA-36",
+     "IBC-185"
+    ]
+   ],
+   [
+    "c06",
+    "My neighbour\\ u093C slapped and injured me while fighting. Can I make ",
+    [
+     "BNS-118",
+     "BNS-124",
+     "BNS-121"
+    ]
+   ],
+   [
+    "c16",
+    "A group of people beat a man to death because of his caste. What does ",
+    [
+     "SCST-3",
+     "SCST-23",
+     "BNS-115"
+    ]
+   ],
+   [
+    "p02",
+    "Can I report a crime to the police by email or online?",
+    [
+     "BNSS-193",
+     "BNSS-176",
+     "POCSO-19"
+    ]
+   ],
+   [
+    "m01",
+    "A check my friend gave me was lost. What should I do",
+    [
+     "NIA-31",
+     "BNS-314",
+     "NIA-81"
+    ]
+   ],
+   [
+    "m02",
+    "How long will it take me to file a check-down lawsuit in court?",
+    [
+     "BNSS-290",
+     "IT_ACT-62",
+     "BNSS-258"
+    ]
+   ],
+   [
+    "r02",
+    "My R. T. I. How long will it take the government to respond?",
+    [
+     "COI-174",
+     "COI-85",
+     "COI-83"
+    ]
+   ],
+   [
+    "r11",
+    "I want to complain about the sexual abuse of a child.",
+    [
+     "POCSO-11",
+     "POSH-9",
+     "POCSO-7"
+    ]
+   ],
+   [
+    "f04",
+    "My son doesn't take care of me in old age. Can I claim maintenance fro",
+    [
+     "MWPSC-32",
+     "BNSS-144",
+     "HAMA-20"
+    ]
+   ]
+  ]
+ },
+ "gu": {
+  "recall@5": 0.875,
+  "mrr": 0.66,
+  "n": 64,
+  "low_confidence_on_unanswerable": "4/15",
+  "low_confidence_on_answerable": "3/64",
+  "misses": [
+   [
+    "c01",
+    "Someone took money from me promising a job and then disappeared. What ",
+    [
+     "IBC-184",
+     "CA-36",
+     "IBC-185"
+    ]
+   ],
+   [
+    "c06",
+    "My neighbour slapped and injured me during the fight. Could I have com",
+    [
+     "BNS-121",
+     "BNS-118",
+     "BNS-124"
+    ]
+   ],
+   [
+    "c10",
+    "At night, while we were away, someone barged into my house.",
+    [
+     "IPC-458",
+     "IPC-457",
+     "IPC-456"
+    ]
+   ],
+   [
+    "p02",
+    "Can I report the crime to the police via e-mail or online?",
+    [
+     "BNSS-193",
+     "POCSO-19",
+     "BNSS-176"
+    ]
+   ],
+   [
+    "r02",
+    "The government has given me my R. T. I. How many days are left to resp",
+    [
+     "IRC-74",
+     "MHA-89",
+     "RTI-19"
+    ]
+   ],
+   [
+    "r09",
+    "Someone insulted me by using my gender name in public.",
+    [
+     "BNS-356",
+     "IPC-499",
+     "IPC-500"
+    ]
+   ],
+   [
+    "f04",
+    "My son does not take care of me in old age. Can I claim maintenance fr",
+    [
+     "MWPSC-32",
+     "HAMA-20",
+     "BNSS-144"
+    ]
+   ],
+   [
+    "y02",
+    "One caller pretended to come from my bank, he called my O. T. P. They ",
+    [
+     "PMLA-3",
+     "BNS-303",
+     "BNS-344"
+    ]
+   ]
+  ]
+ }
+}

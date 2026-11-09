@@ -1,0 +1,5 @@
+# Only needed on the Kaggle GPU machine (the training script installs these itself)
+transformers
+peft
+bitsandbytes
+accelerate

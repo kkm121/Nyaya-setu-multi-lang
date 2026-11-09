@@ -1,0 +1,104 @@
+[
+ {
+  "engine": "indictrans2",
+  "hi_native_recall@5": 0.9,
+  "hi_native_mrr": 0.625,
+  "hi_native_seconds": 98.4,
+  "languages": {
+   "hi": {
+    "meaning_similarity": 0.955,
+    "locked_terms_ok": "8/8",
+    "seconds_per_answer": 2.65,
+    "sample": "**संक्षेप में:** धोखाधड़ी के तहत सजा दी जाती है BNS Section 318(4) [S1]।\n- सजा सात साल तक की जेल और जुर्माना हो सकती है [S1]।"
+   },
+   "ta": {
+    "meaning_similarity": 0.936,
+    "locked_terms_ok": "8/8",
+    "seconds_per_answer": 2.25,
+    "sample": "**சுருக்கமாக:** மோசடி செய்வது தண்டிக்கப்படுகிறது BNS Section 318(4) [S1].\n- தண்டனை ஏழு ஆண்டுகள் வரை சிறைத்தண்டனையும் அபராதமும் இருக்கலாம் [S1]."
+   },
+   "te": {
+    "meaning_similarity": 0.943,
+    "locked_terms_ok": "8/8",
+    "seconds_per_answer": 2.25,
+    "sample": "**సంక్షిప్తంగా:** మోసం చేస్తే శిక్ష విధించబడుతుంది BNS Section 318(4) [S1].\n- శిక్ష ఏడు సంవత్సరాల వరకు జైలు శిక్ష మరియు జరిమానా కావచ్చు [S1]."
+   },
+   "kn": {
+    "meaning_similarity": 0.942,
+    "locked_terms_ok": "8/8",
+    "seconds_per_answer": 2.2,
+    "sample": "**ಸಂಕ್ಷಿಪ್ತವಾಗಿ ಹೇಳುವುದಾದರೆ,:** ವಂಚನೆಗೆ ಈ ಅಡಿಯಲ್ಲಿ ಶಿಕ್ಷೆ ವಿಧಿಸಲಾಗುತ್ತದೆ BNS Section 318(4) [S1].\n- ಶಿಕ್ಷೆಯು ಏಳು ವರ್ಷಗಳವರೆಗೆ ಜೈಲು ಶಿಕ್ಷೆ ಮತ್ತು ದಂಡವಾಗಿರಬಹುದು [S1]."
+   },
+   "bn": {
+    "meaning_similarity": 0.94,
+    "locked_terms_ok": "8/8",
+    "seconds_per_answer": 2.25,
+    "sample": "**সংক্ষেপে:** প্রতারণার শাস্তি দেওয়া হয় BNS Section 318(4) [S1]।\n- শাস্তি হতে পারে সাত বছর পর্যন্ত কারাদণ্ড এবং জরিমানা [S1]।"
+   },
+   "mr": {
+    "meaning_similarity": 0.939,
+    "locked_terms_ok": "8/8",
+    "seconds_per_answer": 2.37,
+    "sample": "**थोडक्यात:** फसवणूक केल्यास शिक्षा होते BNS Section 318(4) [S1].\n- शिक्षा सात वर्षांपर्यंत तुरुंगवास आणि दंड असू शकतो [S1]."
+   },
+   "gu": {
+    "meaning_similarity": 0.933,
+    "locked_terms_ok": "8/8",
+    "seconds_per_answer": 2.44,
+    "sample": "**ટૂંકમાં કહીએ તો:** છેતરપિંડીની સજા હેઠળ છે BNS Section 318(4) [S1].\n- સજા સાત વર્ષ સુધીની જેલ અને દંડની હોઈ શકે છે [S1]."
+   }
+  },
+  "avg_meaning_similarity": 0.941
+ },
+ {
+  "engine": "facebook/nllb-200-distilled-600M",
+  "hi_native_recall@5": 0.8,
+  "hi_native_mrr": 0.533,
+  "hi_native_seconds": 137.6,
+  "languages": {
+   "hi": {
+    "meaning_similarity": 0.956,
+    "locked_terms_ok": "8/8",
+    "seconds_per_answer": 4.01,
+    "sample": "**संक्षेप में:** धोखा देना दंडनीय है BNS Section 318(4) [S1]।\n- सजा सात साल तक की जेल और जुर्माना हो सकता है [S1]।"
+   },
+   "ta": {
+    "meaning_similarity": 0.935,
+    "locked_terms_ok": "8/8",
+    "seconds_per_answer": 4.18,
+    "sample": "**சுருக்கமாக:** ஏமாற்றுவது தண்டனைக்குரியது BNS Section 318(4) [S1].\n- தண்டனை ஏழு ஆண்டுகள் வரை சிறை மற்றும் அபராதம் [S1]."
+   },
+   "te": {
+    "meaning_similarity": 0.941,
+    "locked_terms_ok": "8/8",
+    "seconds_per_answer": 4.58,
+    "sample": "**సంక్షిప్తంగా:** మోసం శిక్షించబడుతుంది BNS Section 318(4) [S1].\n- ఈ శిక్షకు ఏడు సంవత్సరాల వరకు జైలు శిక్ష మరియు జరిమానా విధించవచ్చు [S1]."
+   },
+   "kn": {
+    "meaning_similarity": 0.943,
+    "locked_terms_ok": "8/8",
+    "seconds_per_answer": 4.57,
+    "sample": "**ಸಂಕ್ಷಿಪ್ತವಾಗಿ ಹೇಳುವುದಾದರೆ:** ಮೋಸ ಮಾಡುವುದು ಶಿಕ್ಷೆಯಾಗಿದೆ BNS Section 318(4) [S1].\n- ಶಿಕ್ಷೆ ಏಳು ವರ್ಷ ಜೈಲು ಮತ್ತು ದಂಡ [S1]."
+   },
+   "bn": {
+    "meaning_similarity": 0.939,
+    "locked_terms_ok": "8/8",
+    "seconds_per_answer": 4.37,
+    "sample": "**সংক্ষেপে:** প্রতারণা শাস্তিযোগ্য BNS Section 318(4) [S1]।\n- শাস্তি ৭ বছর পর্যন্ত কারাদণ্ড এবং জরিমানা হতে পারে [S1]।"
+   },
+   "mr": {
+    "meaning_similarity": 0.942,
+    "locked_terms_ok": "8/8",
+    "seconds_per_answer": 4.1,
+    "sample": "**थोडक्यात:** फसवणूक करणं दंडनीय आहे BNS Section 318(4) [S1].\n- यात सात वर्षापर्यंत तुरुंगवास आणि दंड होऊ शकतो [S1]."
+   },
+   "gu": {
+    "meaning_similarity": 0.93,
+    "locked_terms_ok": "8/8",
+    "seconds_per_answer": 4.43,
+    "sample": "**ટૂંકમાં:** છેતરપિંડી માટે સજા કરવામાં આવે છે BNS Section 318(4) [S1].\n- સજા સાત વર્ષ સુધીની જેલ અને દંડ હોઈ શકે છે [S1]."
+   }
+  },
+  "avg_meaning_similarity": 0.941
+ }
+]
