@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+.venv2/
+
+# Big or downloadable files (rebuilt by scripts)
+data/raw/
+models/
+Nyaya-Adapter/
+*.gguf
+*.safetensors
+training/kaggle/out/
+training/kaggle/dataset/
+
+# Local only
+.env
+*.log
+space_build/
+.claude/
+.venv3/
+training/kaggle/adapter_ds/
+training/kaggle/mout/

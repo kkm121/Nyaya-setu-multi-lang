@@ -1,0 +1,50 @@
+{"id": "c01", "answerable": true, "abstained": true, "cited_gold": false, "claims": 0, "supported": 0, "removed": 0, "seconds": 28.2, "quality": 1.0, "recovered_from_log": true}
+{"id": "c02", "answerable": true, "abstained": false, "cited_gold": true, "claims": 5, "supported": 5, "removed": 1, "seconds": 51.8, "quality": 1.0, "recovered_from_log": true}
+{"id": "c03", "answerable": true, "abstained": false, "cited_gold": true, "claims": 4, "supported": 4, "removed": 0, "seconds": 52.9, "quality": 1.0, "recovered_from_log": true}
+{"id": "c04", "answerable": true, "abstained": false, "cited_gold": true, "claims": 2, "supported": 2, "removed": 0, "seconds": 35.1, "quality": 1.0, "recovered_from_log": true}
+{"id": "c05", "answerable": true, "abstained": false, "cited_gold": true, "claims": 3, "supported": 3, "removed": 0, "seconds": 40.8, "quality": 1.0, "recovered_from_log": true}
+{"id": "c06", "answerable": true, "abstained": false, "cited_gold": false, "claims": 5, "supported": 5, "removed": 0, "seconds": 53.1, "quality": 1.0, "recovered_from_log": true}
+{"id": "c07", "answerable": true, "abstained": false, "cited_gold": true, "claims": 5, "supported": 4, "removed": 0, "seconds": 37.3, "quality": 1.0, "recovered_from_log": true}
+{"id": "c08", "answerable": true, "abstained": false, "cited_gold": true, "claims": 3, "supported": 3, "removed": 0, "seconds": 43.3, "quality": 1.0, "recovered_from_log": true}
+{"id": "c09", "answerable": true, "abstained": false, "cited_gold": true, "claims": 6, "supported": 5, "removed": 0, "seconds": 56.6, "quality": 1.0, "recovered_from_log": true}
+{"id": "c10", "answerable": true, "abstained": false, "cited_gold": false, "claims": 5, "supported": 5, "removed": 0, "seconds": 44.4, "quality": 1.0, "recovered_from_log": true}
+{"id": "c11", "answerable": true, "abstained": false, "cited_gold": true, "claims": 3, "supported": 3, "removed": 1, "seconds": 37.0, "quality": 1.0, "recovered_from_log": true}
+{"id": "c12", "answerable": true, "abstained": false, "cited_gold": true, "claims": 6, "supported": 6, "removed": 0, "seconds": 62.8, "quality": 1.0, "recovered_from_log": true}
+{"id": "c13", "answerable": true, "abstained": false, "cited_gold": true, "claims": 3, "supported": 3, "removed": 0, "seconds": 41.6, "quality": 1.0, "recovered_from_log": true}
+{"id": "c14", "answerable": true, "abstained": false, "cited_gold": true, "claims": 5, "supported": 5, "removed": 0, "seconds": 56.6, "quality": 1.0, "recovered_from_log": true}
+{"id": "c15", "answerable": true, "abstained": false, "cited_gold": true, "claims": 3, "supported": 3, "removed": 0, "seconds": 46.7, "quality": 1.0, "recovered_from_log": true}
+{"id": "c16", "answerable": true, "abstained": false, "cited_gold": false, "claims": 4, "supported": 4, "removed": 1, "seconds": 50.5, "quality": 1.0, "recovered_from_log": true}
+{"id": "c17", "answerable": true, "abstained": false, "cited_gold": true, "claims": 3, "supported": 3, "removed": 0, "seconds": 42.1, "quality": 1.0, "recovered_from_log": true}
+{"id": "c18", "answerable": true, "abstained": false, "cited_gold": true, "claims": 4, "supported": 4, "removed": 0, "seconds": 54.2, "quality": 1.0, "recovered_from_log": true}
+{"id": "c19", "answerable": true, "abstained": false, "cited_gold": true, "claims": 4, "supported": 4, "removed": 0, "seconds": 48.7, "quality": 1.0, "recovered_from_log": true}
+{"id": "c20", "answerable": true, "abstained": false, "cited_gold": true, "claims": 4, "supported": 4, "removed": 1, "seconds": 46.8, "quality": 1.0, "recovered_from_log": true}
+{"id": "c21", "answerable": true, "abstained": false, "cited_gold": true, "claims": 3, "supported": 3, "removed": 0, "seconds": 32.6, "quality": 1.0, "recovered_from_log": true}
+{"id": "p01", "answerable": true, "abstained": false, "cited_gold": true, "claims": 4, "supported": 4, "removed": 0, "seconds": 36.3, "quality": 1.0, "recovered_from_log": true}
+{"id": "p02", "answerable": true, "abstained": false, "cited_gold": false, "claims": 7, "supported": 7, "removed": 0, "seconds": 43.9, "quality": 1.0, "recovered_from_log": true}
+{"id": "p03", "answerable": true, "abstained": false, "cited_gold": true, "claims": 5, "supported": 5, "removed": 0, "seconds": 53.5, "quality": 1.0, "recovered_from_log": true}
+{"id": "p04", "answerable": true, "abstained": false, "cited_gold": true, "claims": 8, "supported": 8, "removed": 0, "seconds": 60.2, "quality": 1.0, "recovered_from_log": true}
+{"id": "p05", "answerable": true, "abstained": false, "cited_gold": true, "claims": 4, "supported": 4, "removed": 1, "seconds": 37.6, "quality": 1.0, "recovered_from_log": true}
+{"id": "p06", "answerable": true, "abstained": false, "cited_gold": true, "claims": 3, "supported": 3, "removed": 0, "seconds": 38.3, "quality": 1.0, "recovered_from_log": true}
+{"id": "p07", "answerable": true, "abstained": false, "cited_gold": false, "claims": 3, "supported": 3, "removed": 0, "seconds": 38.0, "quality": 1.0, "recovered_from_log": true}
+{"id": "p08", "answerable": true, "abstained": false, "cited_gold": true, "claims": 7, "supported": 7, "removed": 0, "seconds": 53.8, "quality": 1.0, "recovered_from_log": true}
+{"id": "p09", "answerable": true, "abstained": false, "cited_gold": true, "claims": 2, "supported": 2, "removed": 0, "seconds": 36.5, "quality": 1.0, "recovered_from_log": true}
+{"id": "e01", "answerable": true, "abstained": false, "cited_gold": true, "claims": 7, "supported": 6, "removed": 0, "seconds": 46.5, "quality": 1.0, "recovered_from_log": true}
+{"id": "e02", "answerable": true, "abstained": false, "cited_gold": true, "claims": 4, "supported": 4, "removed": 0, "seconds": 35.9, "quality": 1.0, "recovered_from_log": true}
+{"id": "o01", "answerable": true, "abstained": true, "cited_gold": true, "claims": 1, "supported": 1, "removed": 3, "seconds": 32.3, "quality": 1.0, "recovered_from_log": true}
+{"id": "o02", "answerable": true, "abstained": false, "cited_gold": true, "claims": 3, "supported": 2, "removed": 1, "seconds": 30.0, "quality": 1.0, "recovered_from_log": true}
+{"id": "o03", "answerable": true, "abstained": false, "cited_gold": true, "claims": 4, "supported": 2, "removed": 2, "seconds": 41.9, "quality": 1.0, "recovered_from_log": true}
+{"id": "x01", "answerable": false, "abstained": false, "cited_gold": false, "claims": 7, "supported": 7, "removed": 0, "seconds": 58.3, "quality": 1.0}
+{"id": "x02", "answerable": false, "abstained": false, "cited_gold": false, "claims": 3, "supported": 3, "removed": 0, "seconds": 45.6, "quality": 1.0}
+{"id": "x03", "answerable": false, "abstained": true, "cited_gold": false, "claims": 1, "supported": 1, "removed": 0, "seconds": 25.0, "quality": 1.0}
+{"id": "x04", "answerable": false, "abstained": true, "cited_gold": false, "claims": 0, "supported": 0, "removed": 0, "seconds": 3.1, "quality": 1.0}
+{"id": "x05", "answerable": false, "abstained": true, "cited_gold": false, "claims": 0, "supported": 0, "removed": 0, "seconds": 3.8, "quality": 1.0}
+{"id": "x06", "answerable": false, "abstained": true, "cited_gold": false, "claims": 0, "supported": 0, "removed": 0, "seconds": 26.5, "quality": 1.0}
+{"id": "x07", "answerable": false, "abstained": false, "cited_gold": false, "claims": 2, "supported": 2, "removed": 0, "seconds": 29.3, "quality": 1.0}
+{"id": "x08", "answerable": false, "abstained": true, "cited_gold": false, "claims": 0, "supported": 0, "removed": 0, "seconds": 25.3, "quality": 1.0}
+{"id": "x09", "answerable": false, "abstained": false, "cited_gold": false, "claims": 1, "supported": 1, "removed": 0, "seconds": 27.0, "quality": 1.0}
+{"id": "x10", "answerable": false, "abstained": true, "cited_gold": false, "claims": 0, "supported": 0, "removed": 0, "seconds": 3.3, "quality": 1.0}
+{"id": "x11", "answerable": false, "abstained": true, "cited_gold": false, "claims": 0, "supported": 0, "removed": 0, "seconds": 4.2, "quality": 1.0}
+{"id": "x12", "answerable": false, "abstained": false, "cited_gold": false, "claims": 5, "supported": 5, "removed": 1, "seconds": 33.2, "quality": 1.0}
+{"id": "x13", "answerable": false, "abstained": true, "cited_gold": false, "claims": 0, "supported": 0, "removed": 0, "seconds": 27.8, "quality": 1.0}
+{"id": "x14", "answerable": false, "abstained": true, "cited_gold": false, "claims": 0, "supported": 0, "removed": 0, "seconds": 4.0, "quality": 1.0}
+{"id": "x15", "answerable": false, "abstained": true, "cited_gold": false, "claims": 5, "supported": 5, "removed": 0, "seconds": 33.1, "quality": 1.0}

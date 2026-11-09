@@ -1,0 +1,130 @@
+{
+ "date": "2026-11-07 13:59",
+ "rerank": true,
+ "en": {
+  "recall@5": 0.797,
+  "mrr": 0.659,
+  "n": 64,
+  "low_confidence_on_unanswerable": "5/15",
+  "low_confidence_on_answerable": "5/64",
+  "misses": [
+   [
+    "c01",
+    "Someone took money from me promising a job and then disappeared. What ",
+    [
+     "IBC-184",
+     "CA-36",
+     "IBC-185"
+    ]
+   ],
+   [
+    "c04",
+    "Someone stole my mobile phone from my bag. What is the punishment for ",
+    [
+     "IT_ACT-66B",
+     "IT_ACT-66C",
+     "IPC-379"
+    ]
+   ],
+   [
+    "c05",
+    "A man keeps threatening to kill me over the phone.",
+    [
+     "IPC-354D",
+     "BNS-32",
+     "BNS-101"
+    ]
+   ],
+   [
+    "c06",
+    "My neighbour slapped and hurt me during a fight. Can I complain?",
+    [
+     "IPC-455",
+     "IPC-458",
+     "BNS-195"
+    ]
+   ],
+   [
+    "c10",
+    "Someone broke into my house at night when we were away.",
+    [
+     "IPC-458",
+     "IPC-460",
+     "IPC-457"
+    ]
+   ],
+   [
+    "c12",
+    "A car hit my father and the driver ran away. He died. What is the puni",
+    [
+     "MVA-161",
+     "MVA-197",
+     "MVA-187"
+    ]
+   ],
+   [
+    "p01",
+    "The police refused to file my FIR. What can I do?",
+    [
+     "CRPC-42",
+     "MVA-205",
+     "BNSS-39"
+    ]
+   ],
+   [
+    "p02",
+    "Can I give information about a crime to the police by email or online?",
+    [
+     "ARMS-36",
+     "BNSS-33",
+     "BNSS-176"
+    ]
+   ],
+   [
+    "e01",
+    "Can WhatsApp chats and screenshots be used as evidence in court?",
+    [
+     "IEA-88",
+     "BSA-33",
+     "IEA-39"
+    ]
+   ],
+   [
+    "r06",
+    "Who can get free legal aid from the government?",
+    [
+     "MHA-27",
+     "COI-39A",
+     "BNSS-397"
+    ]
+   ],
+   [
+    "r11",
+    "I want to report sexual abuse of a child.",
+    [
+     "POCSO-11",
+     "IT_ACT-67B",
+     "POCSO-7"
+    ]
+   ],
+   [
+    "y02",
+    "A caller pretended to be from my bank, took my OTP and stole money.",
+    [
+     "BNS-344",
+     "PMLA-3",
+     "BNS-343"
+    ]
+   ],
+   [
+    "h01",
+    "How much notice must be given to end a monthly rent tenancy?",
+    [
+     "ITA-393",
+     "BNSS-144",
+     "BNS-211"
+    ]
+   ]
+  ]
+ }
+}
